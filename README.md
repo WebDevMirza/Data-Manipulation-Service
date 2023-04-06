@@ -17,4 +17,4 @@ Sample data in json format can be obtained from this repo.
    }
 ```
 
-[Get API](https://raw.githubusercontent.com/WebDevMirza/Data-Manipulation-Service/main/fruitshoping.json "json format with id, fruit name, price, unit")
+[Get API](https://raw.githubusercontent.com/WebDevMirza/Data-Manipulation-Service/main/fruitshopping.json "json format with id, fruit name, price, unit")
